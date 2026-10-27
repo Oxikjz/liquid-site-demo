@@ -1,0 +1,5 @@
+.env
+*.env
+.DS_Store
+tools/stock_*.json
+print/

@@ -1,0 +1,18 @@
+{
+  "_note": "Оценки. Шкала 0–10. taste — вкусопередача, nicotine — качество никотина, ice — холодок. strength — крепость по группам (ключи групп — по группам крепости бренда); число или диапазон [от, до].",
+  "oggo":      { "taste": 9,  "nicotine": 8,  "strength": { "light": 3, "strong": 5 }, "ice": 3 },
+  "vlaga":     { "taste": 7,  "nicotine": 6,  "strength": { "light": 2, "strong": 5, "xstrong": 8 }, "ice": 3 },
+  "bubble":    { "taste": 9,  "nicotine": 9,  "strength": { "light": 2, "strong": 7 }, "ice": 3 },
+  "vmed":      { "taste": 7,  "nicotine": 4,  "strength": { "light": 2, "strong": 5, "60": 6 }, "ice": 5 },
+  "bjorn":     { "taste": 5,  "nicotine": 6,  "strength": { "main": [6, 7], "dark": [7, 8] }, "ice": 1 },
+  "duall":     { "taste": 3,  "nicotine": 3,  "strength": { "light": 1, "strong": 3 }, "ice": 3 },
+  "husky":     { "taste": 5,  "nicotine": 5,  "strength": { "light": 2, "strong": 5 }, "ice": 7 },
+  "cataclysm": { "taste": 10, "nicotine": 10, "strength": { "light": 3, "strong": 7 }, "ice": 3 },
+  "crazy":     { "taste": 3,  "nicotine": 4,  "strength": { "all": 2 }, "ice": 0 },
+  "boshki":    { "taste": 6,  "nicotine": 5,  "strength": { "light": 2 }, "ice": 1 },
+  "monster":   { "taste": 3,  "nicotine": 3,  "strength": { "light": 2, "strong": 5 }, "ice": 6 },
+  "pafos":     { "taste": 6,  "nicotine": 4,  "strength": { "light": 2, "strong": 5 }, "ice": 5 },
+  "skala":     { "taste": 2,  "nicotine": 2,  "strength": { "light": 2, "ultra": 3 }, "ice": 7 },
+  "monashka":  { "taste": 1,  "nicotine": 1,  "strength": { "all": 3 }, "ice": 5 },
+  "bryzgi":    { "taste": 2,  "nicotine": 2,  "strength": { "light": 2, "strong": 3 }, "ice": 4 }
+}
